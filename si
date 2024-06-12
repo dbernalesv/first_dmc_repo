@@ -1,0 +1,23 @@
+[33mcommit 93f84c33539ec5dba807e127f4ab426866b375ce[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: root <root@DIEGO-PC>
+Date:   Tue Jun 11 21:06:32 2024 -0500
+
+    .gitignore
+
+[33mcommit da42c226766b06b141d9546cef28042f6ab1ec1d[m
+Author: Diego Bernales <diegobernales3@gmail.com>
+Date:   Tue Jun 11 20:56:52 2024 -0500
+
+    Add:test2.txt
+
+[33mcommit 6d73214dbf3283b9bf543bac4b0d1eb35c8f5059[m
+Author: Diego Bernales <diegobernales3@gmail.com>
+Date:   Tue Jun 11 20:53:49 2024 -0500
+
+    Add: test1.txt
+
+[33mcommit 18a0d52ac57bc3e3ca5486b0235bb7bf466986fd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Diego Bernales Valdivia <86809618+dbernalesv@users.noreply.github.com>
+Date:   Tue Jun 11 20:28:00 2024 -0500
+
+    Initial commit
